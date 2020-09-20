@@ -1,7 +1,7 @@
 {
   "title": "Home",
   "titleTemplate": "| tech4you",
-  "welcomeText": "# hello world",
+  "welcomeText": "> # `Technology Blog`\n>\n> > # ` By `\n>\n> # `Saurabh S Sanap`",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/saurabhsanap.jpg",
   "loadingColor": "#0b3765",
